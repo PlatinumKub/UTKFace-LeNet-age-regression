@@ -19,9 +19,9 @@
 - Средняя ошибка (MAE): ~6 лет на тестовой выборке.
 - Визуализации:
   - распределение возрастов в датасете:
-  - 
+  - ![Age distribution histogram](images/Age_distribution.png)
   - примеры предсказаний: `true_age → predicted_age`:
-  - 
+  - ![True vs Predicted ages](images/Predict_res_best.png)
 
 
 ## Как запустить
