@@ -20,9 +20,7 @@
 
 Это показывает, что даже простая сверточная модель уже существенно улучшает качество по сравнению с наивным предсказанием и даёт разумную стартовую планку для дальнейших экспериментов.
 
-## Визуализации
-
-- Гистограмма распределения возрастов в UTKFace.
-- Графики `Train/Val loss` по эпохам.
-- Диаграмма рассеяния `True vs Predicted age` на тестовой выборке.
-- Примеры изображений с подписями `T: true_age, P: pred_age`.
+- ![Гистограмма распределения возрастов в UTKFace](images/Age_distribution_UTKFace.png)
+- ![Графики `Train/Val loss` по эпохам](images/Train_Val_loss_per_epoch.png)
+- ![Диаграмма рассеяния `True vs Predicted age` на тестовой выборке](images/True_vs_predict_scatter.png)
+- ![Примеры изображений с подписями `T: true_age, P: pred_age`](images/Examples_UTKFace.png)
