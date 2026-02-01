@@ -1,4 +1,4 @@
-# utkface-age-regression
+# UTKFace-LeNet-age-regression
 
 Простой baseline-проект по оценке возраста по фотографиям лиц с помощью сверточной нейросети (PyTorch) на датасете UTKFace.
 
